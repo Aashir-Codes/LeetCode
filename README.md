@@ -25,6 +25,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aashir-Codes/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Aashir-Codes/LeetCode/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## Design
 |  |
 | ------- |
@@ -53,4 +54,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aashir-Codes/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
+## String
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
