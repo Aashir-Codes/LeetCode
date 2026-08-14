@@ -57,9 +57,14 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aashir-Codes/LeetCode/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## String
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Aashir-Codes/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
