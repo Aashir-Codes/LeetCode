@@ -75,6 +75,7 @@
 | [0002-add-two-numbers](https://github.com/Aashir-Codes/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Aashir-Codes/LeetCode/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0504-base-7](https://github.com/Aashir-Codes/LeetCode/tree/master/0504-base-7) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aashir-Codes/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
@@ -82,6 +83,7 @@
 | [0125-valid-palindrome](https://github.com/Aashir-Codes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Aashir-Codes/LeetCode/tree/master/0344-reverse-string) |
+| [0504-base-7](https://github.com/Aashir-Codes/LeetCode/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Recursion
 |  |
