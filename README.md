@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Aashir-Codes/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aashir-Codes/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashir-Codes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aashir-Codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aashir-Codes/LeetCode/tree/master/0704-binary-search) |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
