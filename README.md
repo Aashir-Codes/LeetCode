@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashir-Codes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aashir-Codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aashir-Codes/LeetCode/tree/master/0704-binary-search) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Aashir-Codes/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aashir-Codes/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Aashir-Codes/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
