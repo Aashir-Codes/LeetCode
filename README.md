@@ -39,6 +39,7 @@
 | [0042-trapping-rain-water](https://github.com/Aashir-Codes/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Aashir-Codes/LeetCode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashir-Codes/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0344-reverse-string](https://github.com/Aashir-Codes/LeetCode/tree/master/0344-reverse-string) |
 | [0504-base-7](https://github.com/Aashir-Codes/LeetCode/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashir-Codes/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -110,4 +112,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aashir-Codes/LeetCode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashir-Codes/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
