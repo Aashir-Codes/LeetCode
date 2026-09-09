@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aashir-Codes/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aashir-Codes/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Aashir-Codes/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashir-Codes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -31,6 +32,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aashir-Codes/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashir-Codes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Aashir-Codes/LeetCode/tree/master/0704-binary-search) |
 ## Stack
