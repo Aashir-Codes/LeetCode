@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Aashir-Codes/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Aashir-Codes/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/Aashir-Codes/LeetCode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashir-Codes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aashir-Codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aashir-Codes/LeetCode/tree/master/0704-binary-search) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aashir-Codes/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Aashir-Codes/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Aashir-Codes/LeetCode/tree/master/0066-plus-one) |
 | [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0504-base-7](https://github.com/Aashir-Codes/LeetCode/tree/master/0504-base-7) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aashir-Codes/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
