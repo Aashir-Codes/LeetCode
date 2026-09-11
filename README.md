@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/Aashir-Codes/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Aashir-Codes/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashir-Codes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aashir-Codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aashir-Codes/LeetCode/tree/master/0704-binary-search) |
@@ -24,6 +25,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aashir-Codes/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Aashir-Codes/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aashir-Codes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aashir-Codes/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aashir-Codes/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
