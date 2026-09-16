@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashir-Codes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aashir-Codes/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashir-Codes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/Aashir-Codes/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Aashir-Codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aashir-Codes/LeetCode/tree/master/0704-binary-search) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aashir-Codes/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aashir-Codes/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aashir-Codes/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Aashir-Codes/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aashir-Codes/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
@@ -145,4 +147,20 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aashir-Codes/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aashir-Codes/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aashir-Codes/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aashir-Codes/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
