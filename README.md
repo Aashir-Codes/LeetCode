@@ -48,6 +48,7 @@
 | [0020-valid-parentheses](https://github.com/Aashir-Codes/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aashir-Codes/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Aashir-Codes/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Aashir-Codes/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Aashir-Codes/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashir-Codes/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aashir-Codes/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Aashir-Codes/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aashir-Codes/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Dynamic Programming
 |  |
@@ -132,6 +134,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aashir-Codes/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aashir-Codes/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aashir-Codes/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
