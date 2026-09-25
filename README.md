@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/Aashir-Codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aashir-Codes/LeetCode/tree/master/0704-binary-search) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aashir-Codes/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1598-crawler-log-folder](https://github.com/Aashir-Codes/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aashir-Codes/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aashir-Codes/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
@@ -52,6 +53,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Aashir-Codes/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Aashir-Codes/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1598-crawler-log-folder](https://github.com/Aashir-Codes/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashir-Codes/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aashir-Codes/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -107,6 +109,7 @@
 | [0344-reverse-string](https://github.com/Aashir-Codes/LeetCode/tree/master/0344-reverse-string) |
 | [0504-base-7](https://github.com/Aashir-Codes/LeetCode/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1598-crawler-log-folder](https://github.com/Aashir-Codes/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashir-Codes/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
