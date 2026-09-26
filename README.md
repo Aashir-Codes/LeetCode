@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Aashir-Codes/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Aashir-Codes/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Aashir-Codes/LeetCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Aashir-Codes/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashir-Codes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Aashir-Codes/LeetCode/tree/master/0051-n-queens) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aashir-Codes/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Aashir-Codes/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
