@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aashir-Codes/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Aashir-Codes/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Aashir-Codes/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Aashir-Codes/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Aashir-Codes/LeetCode/tree/master/0051-n-queens) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aashir-Codes/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Aashir-Codes/LeetCode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Aashir-Codes/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
@@ -125,6 +127,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aashir-Codes/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Aashir-Codes/LeetCode/tree/master/0051-n-queens) |
 ## Bit Manipulation
@@ -171,5 +174,14 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aashir-Codes/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Aashir-Codes/LeetCode/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aashir-Codes/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aashir-Codes/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
