@@ -8,9 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
-public:
-    ListNode* reverseList(ListNode* head) {
+
+ /*
         ListNode* past=nullptr;
         ListNode* current=head;
         ListNode* future=nullptr;
@@ -29,5 +28,25 @@ public:
             current=future;
         }
         return past;
+ 
+ */
+class Solution {
+public:
+    ListNode* reverse(ListNode* current,ListNode* past=nullptr)
+    {
+        if(current == nullptr)
+        {
+            return past;
+        }
+
+        ListNode* future=current->next;
+        current->next=past;
+        past=current;
+
+        return reverse(future,past);
+
+    }
+    ListNode* reverseList(ListNode* head) {
+        return  reverse(head);
     }
 };
