@@ -13,6 +13,7 @@
 | [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Aashir-Codes/LeetCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Aashir-Codes/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Aashir-Codes/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashir-Codes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aashir-Codes/LeetCode/tree/master/0136-single-number) |
@@ -136,9 +137,11 @@
 | [0037-sudoku-solver](https://github.com/Aashir-Codes/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Aashir-Codes/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Aashir-Codes/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aashir-Codes/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aashir-Codes/LeetCode/tree/master/0136-single-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aashir-Codes/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Bracket Sequences
