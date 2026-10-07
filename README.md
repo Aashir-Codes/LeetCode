@@ -42,6 +42,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Aashir-Codes/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashir-Codes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Aashir-Codes/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aashir-Codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aashir-Codes/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -63,6 +64,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Aashir-Codes/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Aashir-Codes/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Aashir-Codes/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1598-crawler-log-folder](https://github.com/Aashir-Codes/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashir-Codes/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aashir-Codes/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -92,6 +94,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Aashir-Codes/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Aashir-Codes/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Aashir-Codes/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aashir-Codes/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aashir-Codes/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aashir-Codes/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -135,6 +138,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Aashir-Codes/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Aashir-Codes/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aashir-Codes/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Aashir-Codes/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
