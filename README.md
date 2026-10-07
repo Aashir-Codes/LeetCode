@@ -14,6 +14,7 @@
 | [0046-permutations](https://github.com/Aashir-Codes/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Aashir-Codes/LeetCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Aashir-Codes/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Aashir-Codes/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aashir-Codes/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashir-Codes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -34,6 +35,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aashir-Codes/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Aashir-Codes/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Aashir-Codes/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aashir-Codes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aashir-Codes/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aashir-Codes/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Aashir-Codes/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aashir-Codes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Aashir-Codes/LeetCode/tree/master/0148-sort-list) |
 ## Sliding Window
@@ -216,4 +219,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aashir-Codes/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aashir-Codes/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aashir-Codes/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
