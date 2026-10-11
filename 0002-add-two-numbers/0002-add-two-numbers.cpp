@@ -11,79 +11,30 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* c1=l1;
-        ListNode* c2=l2;
+        ListNode dummy= ListNode();
+
         int carry=0;
-        ListNode* list=new ListNode();
-        ListNode* Head=list;
-
-
-        while (c1 != nullptr && c2 !=nullptr)
+        ListNode* current=&dummy;
+        ListNode* cr1=l1;
+        ListNode* cr2=l2;
+        while(cr1 or cr2 or carry)
         {
-            int _val = c1->val+c2->val;
-            if(carry!=0)
-            {
-                _val+=carry;
-                carry=0;
-            }
-            if(_val>9)
-            {
-                carry=_val/10;
-                _val%=10;
-            }
-            list->val=_val;
-            if(c1->next != nullptr || c2->next != nullptr)
-            {
-                list->next=new ListNode();
-                list=list->next;
-            }
-            c1=c1->next;
-            c2=c2->next;
-        }
-
-        while (c1 != nullptr)
-        {
-            int _val = c1->val;
-            if (carry != 0) { _val += carry; carry = 0; }
-            if (_val > 9) { carry = _val / 10; _val %= 10; }
+            int val1 = (!cr1)?0:cr1->val;
+            int val2 = (!cr2)?0:cr2->val;
+            int value=val1+val2+carry;
+            carry=value/10;
+            value=value%10;
             
-            list->val = _val;              
-            c1 = c1->next;
-            
-            if (c1 != nullptr)  
-            {
-                list->next = new ListNode();
-                list = list->next;
-            }
-        }
-
-      
-        while (c2 != nullptr)
-        {
-            int _val = c2->val;
-            if (carry != 0) { _val += carry; carry = 0; }
-            if (_val > 9) { carry = _val / 10; _val %= 10; }
-            
-            list->val = _val;              
-            c2 = c2->next;
-            
-            if (c2 != nullptr)  
-            {
-                list->next = new ListNode();
-                list = list->next;
-            }
-        }
-
-        if(carry != 0)
-        {
-            list->next=new ListNode();
-            list=list->next;
-            list->val=carry;
+            current->next=new ListNode(value);
+            current=current->next;
+            if(cr1)
+            cr1=cr1->next;
+            if(cr2)
+            cr2=cr2->next;
         }
 
 
+        return dummy.next;
 
-        return Head;
-        
     }
 };
