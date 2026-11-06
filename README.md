@@ -140,6 +140,7 @@
 | [0050-powx-n](https://github.com/Aashir-Codes/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Aashir-Codes/LeetCode/tree/master/0066-plus-one) |
 | [0227-basic-calculator-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0371-sum-of-two-integers](https://github.com/Aashir-Codes/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Aashir-Codes/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Aashir-Codes/LeetCode/tree/master/0504-base-7) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aashir-Codes/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Aashir-Codes/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aashir-Codes/LeetCode/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/Aashir-Codes/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aashir-Codes/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Bracket Sequences
 |  |
