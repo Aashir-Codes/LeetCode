@@ -263,6 +263,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aashir-Codes/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashir-Codes/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aashir-Codes/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/Aashir-Codes/LeetCode/tree/master/0463-island-perimeter) |
@@ -270,12 +271,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/Aashir-Codes/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Aashir-Codes/LeetCode/tree/master/0733-flood-fill) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aashir-Codes/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashir-Codes/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aashir-Codes/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -289,6 +292,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aashir-Codes/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashir-Codes/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aashir-Codes/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
