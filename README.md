@@ -275,6 +275,7 @@
 | [0463-island-perimeter](https://github.com/Aashir-Codes/LeetCode/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aashir-Codes/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aashir-Codes/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Aashir-Codes/LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aashir-Codes/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
@@ -298,6 +299,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Aashir-Codes/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aashir-Codes/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aashir-Codes/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aashir-Codes/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -309,6 +311,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Aashir-Codes/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aashir-Codes/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aashir-Codes/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aashir-Codes/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -324,6 +327,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Aashir-Codes/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aashir-Codes/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aashir-Codes/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aashir-Codes/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aashir-Codes/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
